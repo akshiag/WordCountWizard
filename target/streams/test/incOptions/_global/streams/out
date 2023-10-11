@@ -1,8 +1,0 @@
-[debug] Created transactional ClassFileManager with tempDir = C:\Users\akshi\IdeaProjects\WordCountWizard\target\scala-2.13\test-classes.bak
-[debug] About to delete class files:
-[debug] 	WordCountTest.class
-[debug] We backup class files:
-[debug] 	WordCountTest.class
-[debug] Registering generated classes:
-[debug] 	WordCountTest.class
-[debug] Removing the temporary directory used for backing up class files: C:\Users\akshi\IdeaProjects\WordCountWizard\target\scala-2.13\test-classes.bak
